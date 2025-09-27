@@ -10,3 +10,8 @@ Output: Predicted Price (₹ or $)
 Algorithm Used: Linear Regression
 
 Libraries: pandas, numpy, matplotlib, scikit-learn
+
+
+Conclusion
+
+This project demonstrates how simple linear regression can help predict housing prices based on key features. Visualizations aid in understanding the data before modeling. The approach can be extended with more complex models or additional features for improved accuracy.
